@@ -1,0 +1,18 @@
+#box1{
+    border-radius:20px ;
+}
+#box1:hover{
+    z-index: 1;
+    border-radius:20px ;
+    box-shadow: 0 8px 20px #141414;
+    transform: scale(1.05);
+}
+#box2{
+    border-radius:20px ;
+}
+#box2:hover{
+    z-index: 1;
+    border-radius:20px ;
+    box-shadow: 0 8px 20px #141414;
+    transform: scale(1.05);
+}

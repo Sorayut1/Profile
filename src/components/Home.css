@@ -1,0 +1,28 @@
+h1 {
+  color: #fff;
+  text-shadow: 0 0 10px #946FFF
+  ,0 0 20px #946FFF
+  ,0 0 40px #946FFF
+  ,0 0 80px #946FFF
+  ,0 0 120px #946FFF
+  ;
+}
+
+
+#button{
+    background: #07b8f9;
+    box-shadow: 0 0 10px #15aadb
+    ,0 0 20px #0982b6
+    ,0 0 30px #6f9abb
+    
+    
+    ;
+}
+#button:hover{
+  z-index: 1;
+  border-radius:20px ;
+  box-shadow: 0 0 10px #15aadb
+    ,0 0 20px #0982b6
+    ,0 0 30px #6f9abb;
+  transform: scale(1.05);
+}

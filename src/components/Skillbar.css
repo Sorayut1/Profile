@@ -1,0 +1,12 @@
+/* สร้าง animation */
+@keyframes fillWidth {
+    0% {
+        width: 0%;
+    }
+  }
+  
+  /* เพิ่ม animation ลงใน class */
+  .animate-skill {
+    animation: fillWidth 2s ease-out; /* กำหนดระยะเวลาและการเคลื่อนไหว */
+  }
+
